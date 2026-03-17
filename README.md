@@ -1,7 +1,7 @@
 # Proyectos
 Este repositorio es para proyectos de Estructura de Datos 2
 
-# Practicas
+## Practicas
 - Arbol Binario
 
 ## Participantes
